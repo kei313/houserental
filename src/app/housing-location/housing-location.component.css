@@ -4,7 +4,7 @@ listing {
     padding-bottom: 30px;
   }
   .listing-heading {
-    color: var(--primary-color);
+    color: purple;
     padding: 10px 20px 0 20px;
   }
   .listing-photo {
